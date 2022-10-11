@@ -1,5 +1,5 @@
 <?php
-$servername = "mysql-connection";
+$servername = "mysql-connection"; // Mesmo nome do service no deployment.yml
 $username = "root";
 $password = "Senha123";
 $database = "meubanco";
